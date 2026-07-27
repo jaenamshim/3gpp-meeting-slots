@@ -1,0 +1,1034 @@
+{
+  "generated": "2026-07-27T12:20:10Z",
+  "watch_scope": [
+    "CT1",
+    "CT3",
+    "CT4",
+    "CT6",
+    "RAN1",
+    "RAN2",
+    "RAN3",
+    "RAN4",
+    "RAN5",
+    "SA1",
+    "SA2",
+    "SA3",
+    "SA4",
+    "SA5",
+    "SA6"
+  ],
+  "slot_count": 19,
+  "slots": [
+    {
+      "slot_id": "2026-08_Maastricht",
+      "city": "Maastricht",
+      "city_norm": "maastricht",
+      "start": "2026-08-24",
+      "end": "2026-08-28",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 126,
+          "is_bis": false,
+          "meeting_folder": "TSGR1_126",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_126/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_126/Invitation/"
+        },
+        "RAN2": {
+          "meeting_number": 135,
+          "is_bis": false,
+          "meeting_folder": "TSGR2_135",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_135/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_135/Invitation/"
+        },
+        "RAN3": {
+          "meeting_number": 133,
+          "is_bis": false,
+          "meeting_folder": "TSGR3_133",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133/Invitation/"
+        },
+        "RAN4": {
+          "meeting_number": 120,
+          "is_bis": false,
+          "meeting_folder": "TSGR4_120",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_120/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_120/Invitation/"
+        },
+        "RAN5": {
+          "meeting_number": 112,
+          "is_bis": false,
+          "meeting_folder": "TSGR5__112_Maastricht",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__112_Maastricht/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__112_Maastricht/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2026-08_Prague",
+      "city": "Prague",
+      "city_norm": "prague",
+      "start": "2026-08-24",
+      "end": "2026-08-28",
+      "groups": {
+        "SA1": {
+          "meeting_number": 115,
+          "is_bis": false,
+          "meeting_folder": "TSGS1_115_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_115_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_115_Prague/Invitation/"
+        },
+        "SA2": {
+          "meeting_number": 176,
+          "is_bis": false,
+          "meeting_folder": "TSGS2_176_Prague_2026-08",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_176_Prague_2026-08/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_176_Prague_2026-08/Invitation/"
+        },
+        "SA3": {
+          "meeting_number": 129,
+          "is_bis": false,
+          "meeting_folder": "TSGS3_129_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_129_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_129_Prague/Invitation/"
+        },
+        "SA5": {
+          "meeting_number": 168,
+          "is_bis": false,
+          "meeting_folder": "TSGS5_168",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_168/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_168/Invitation/"
+        },
+        "SA6": {
+          "meeting_number": 74,
+          "is_bis": false,
+          "meeting_folder": "TSGS6_074_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_074_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_074_Prague/Invitation/"
+        },
+        "CT1": {
+          "meeting_number": 162,
+          "is_bis": false,
+          "meeting_folder": "TSGC1_162_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_162_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_162_Prague/Invitation/"
+        },
+        "CT3": {
+          "meeting_number": 148,
+          "is_bis": false,
+          "meeting_folder": "TSGC3_148_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_148_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_148_Prague/Invitation/"
+        },
+        "CT4": {
+          "meeting_number": 136,
+          "is_bis": false,
+          "meeting_folder": "CT4_136_Prague-2026-08",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_136_Prague-2026-08/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_136_Prague-2026-08/Invitation/"
+        },
+        "CT6": {
+          "meeting_number": 127,
+          "is_bis": false,
+          "meeting_folder": "CT6-127_Prague_2026-08",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-127_Prague_2026-08/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-127_Prague_2026-08/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2026-10_Prague",
+      "city": "Prague",
+      "city_norm": "prague",
+      "start": "2026-10-12",
+      "end": "2026-10-16",
+      "groups": {
+        "SA2": {
+          "meeting_number": 177,
+          "is_bis": false,
+          "meeting_folder": "TSGS2_177_Prague_2026-10",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_177_Prague_2026-10/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_177_Prague_2026-10/Invitation/"
+        },
+        "SA3": {
+          "meeting_number": 130,
+          "is_bis": false,
+          "meeting_folder": "TSGS3_130_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_130_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_130_Prague/Invitation/"
+        },
+        "SA4": {
+          "meeting_number": 137,
+          "is_bis": false,
+          "meeting_folder": "TSGS4_137-e",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_137-e/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_137-e/Invitation/"
+        },
+        "SA5": {
+          "meeting_number": 169,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 75,
+          "is_bis": false,
+          "meeting_folder": "TSGS6_075_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_075_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_075_Prague/Invitation/"
+        },
+        "CT1": {
+          "meeting_number": 163,
+          "is_bis": false,
+          "meeting_folder": "TSGC1_163_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_163_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_163_Prague/Invitation/"
+        },
+        "CT3": {
+          "meeting_number": 149,
+          "is_bis": false,
+          "meeting_folder": "TSGC3_149_Prague",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_149_Prague/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_149_Prague/Invitation/"
+        },
+        "CT4": {
+          "meeting_number": 137,
+          "is_bis": false,
+          "meeting_folder": "CT4_137_Prague-2026-10",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_137_Prague-2026-10/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_137_Prague-2026-10/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2026-10_SouthKorea",
+      "city": "South Korea",
+      "city_norm": "south korea",
+      "start": "2026-10-12",
+      "end": "2026-10-16",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 126,
+          "is_bis": true,
+          "meeting_folder": "TSGR1_126b",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_126b/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_126b/Invitation/"
+        },
+        "RAN2": {
+          "meeting_number": 135,
+          "is_bis": true,
+          "meeting_folder": "TSGR2_135bis",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_135bis/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_135bis/Invitation/"
+        },
+        "RAN3": {
+          "meeting_number": 133,
+          "is_bis": true,
+          "meeting_folder": "TSGR3_133-bis",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133-bis/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133-bis/Invitation/"
+        },
+        "RAN4": {
+          "meeting_number": 120,
+          "is_bis": true,
+          "meeting_folder": "TSGR4_120bis",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_120bis/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_120bis/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2026-11_US",
+      "city": "US",
+      "city_norm": "us",
+      "start": "2026-11-03",
+      "end": "2026-11-06",
+      "groups": {
+        "SA3": {
+          "meeting_number": 103,
+          "is_bis": false,
+          "meeting_folder": "TSGS3_103e",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_103e/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_103e/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2026-11_Calgary",
+      "city": "Calgary",
+      "city_norm": "calgary",
+      "start": "2026-11-16",
+      "end": "2026-11-20",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 127,
+          "is_bis": false,
+          "meeting_folder": "TSGR1_127",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_127/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_127/Invitation/"
+        },
+        "RAN2": {
+          "meeting_number": 136,
+          "is_bis": false,
+          "meeting_folder": "TSGR2_136",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_136/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_136/Invitation/"
+        },
+        "RAN3": {
+          "meeting_number": 134,
+          "is_bis": false,
+          "meeting_folder": "TSGR3_134",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_134/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_134/Invitation/"
+        },
+        "RAN4": {
+          "meeting_number": 121,
+          "is_bis": false,
+          "meeting_folder": "TSGR4_121",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_121/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_121/Invitation/"
+        },
+        "RAN5": {
+          "meeting_number": 113,
+          "is_bis": false,
+          "meeting_folder": "TSGR5__113_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__113_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__113_Calgary/Invitation/"
+        },
+        "SA1": {
+          "meeting_number": 116,
+          "is_bis": false,
+          "meeting_folder": "TSGS1_116_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_116_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_116_Calgary/Invitation/"
+        },
+        "SA2": {
+          "meeting_number": 178,
+          "is_bis": false,
+          "meeting_folder": "TSGS2_178_Calgary_2026-11",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_178_Calgary_2026-11/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_178_Calgary_2026-11/Invitation/"
+        },
+        "SA3": {
+          "meeting_number": 131,
+          "is_bis": false,
+          "meeting_folder": "TSGS3_131_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_131_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_131_Calgary/Invitation/"
+        },
+        "SA4": {
+          "meeting_number": 138,
+          "is_bis": false,
+          "meeting_folder": "TSGS4_138_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_138_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_138_Calgary/Invitation/"
+        },
+        "SA5": {
+          "meeting_number": 170,
+          "is_bis": false,
+          "meeting_folder": "TSGS5_170",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_170/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_170/Invitation/"
+        },
+        "SA6": {
+          "meeting_number": 76,
+          "is_bis": false,
+          "meeting_folder": "TSGS6_076_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_076_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_076_Calgary/Invitation/"
+        },
+        "CT1": {
+          "meeting_number": 164,
+          "is_bis": false,
+          "meeting_folder": "TSGC1_164_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_164_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_164_Calgary/Invitation/"
+        },
+        "CT3": {
+          "meeting_number": 150,
+          "is_bis": false,
+          "meeting_folder": "TSGC3_150_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_150_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_150_Calgary/Invitation/"
+        },
+        "CT4": {
+          "meeting_number": 138,
+          "is_bis": false,
+          "meeting_folder": "CT4_138_Calgary-2026-11",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_138_Calgary-2026-11/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_138_Calgary-2026-11/Invitation/"
+        },
+        "CT6": {
+          "meeting_number": 128,
+          "is_bis": false,
+          "meeting_folder": "CT6-128_Calgary_2026-11",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-128_Calgary_2026-11/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-128_Calgary_2026-11/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2027-01_Sophia-Antipolis",
+      "city": "Sophia-Antipolis",
+      "city_norm": "sophia-antipolis",
+      "start": "2027-01-19",
+      "end": "2027-01-22",
+      "groups": {
+        "SA3": {
+          "meeting_number": 104,
+          "is_bis": false,
+          "meeting_folder": "TSGS3_104-e_ad_hoc",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_104-e_ad_hoc/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_104-e_ad_hoc/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2027-01_Japan",
+      "city": "Japan",
+      "city_norm": "japan",
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 128,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 137,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 135,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 122,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN5": {
+          "meeting_number": 114,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-02_SouthKorea",
+      "city": "South Korea",
+      "city_norm": "south korea",
+      "start": "2027-02-22",
+      "end": "2027-02-26",
+      "groups": {
+        "SA1": {
+          "meeting_number": 117,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA2": {
+          "meeting_number": 179,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA3": {
+          "meeting_number": 132,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA4": {
+          "meeting_number": 139,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA5": {
+          "meeting_number": 171,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 77,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT1": {
+          "meeting_number": 165,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT3": {
+          "meeting_number": 151,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT4": {
+          "meeting_number": 139,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT6": {
+          "meeting_number": 129,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-04_Lyon",
+      "city": "Lyon",
+      "city_norm": "lyon",
+      "start": "2027-04-19",
+      "end": "2027-04-23",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 128,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 137,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 135,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 122,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-05_China",
+      "city": "China",
+      "city_norm": "china",
+      "start": "2027-05-24",
+      "end": "2027-05-28",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 129,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 138,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 136,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 123,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN5": {
+          "meeting_number": 115,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA1": {
+          "meeting_number": 118,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA2": {
+          "meeting_number": 181,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA3": {
+          "meeting_number": 134,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA4": {
+          "meeting_number": 140,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA5": {
+          "meeting_number": 173,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 79,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT1": {
+          "meeting_number": 167,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT3": {
+          "meeting_number": 153,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT4": {
+          "meeting_number": 141,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT6": {
+          "meeting_number": 130,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-08_Prague",
+      "city": "Prague",
+      "city_norm": "prague",
+      "start": "2027-08-30",
+      "end": "2027-09-03",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 130,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 139,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 137,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 124,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN5": {
+          "meeting_number": 116,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-08_Sweden",
+      "city": "Sweden",
+      "city_norm": "sweden",
+      "start": "2027-08-30",
+      "end": "2027-09-03",
+      "groups": {
+        "SA1": {
+          "meeting_number": 119,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA2": {
+          "meeting_number": 182,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA3": {
+          "meeting_number": 135,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA4": {
+          "meeting_number": 141,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA5": {
+          "meeting_number": 174,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 80,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT1": {
+          "meeting_number": 168,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT6": {
+          "meeting_number": 131,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-10_Sophia-Antipolis",
+      "city": "Sophia-Antipolis",
+      "city_norm": "sophia-antipolis",
+      "start": "2027-10-11",
+      "end": "2027-10-15",
+      "groups": {
+        "CT1": {
+          "meeting_number": 169,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT3": {
+          "meeting_number": 155,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT4": {
+          "meeting_number": 143,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2028-02_Sophia-Antipolis",
+      "city": "Sophia-Antipolis",
+      "city_norm": "sophia-antipolis",
+      "start": "2028-02-01",
+      "end": "2028-02-04",
+      "groups": {
+        "SA3": {
+          "meeting_number": 108,
+          "is_bis": false,
+          "meeting_folder": "TSGS3_108e-AdHoc",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_108e-AdHoc/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_108e-AdHoc/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2028-05_China",
+      "city": "China",
+      "city_norm": "china",
+      "start": "2028-05-22",
+      "end": "2028-05-26",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 134,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 143,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 141,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 128,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN5": {
+          "meeting_number": 119,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2028-05_Japan",
+      "city": "Japan",
+      "city_norm": "japan",
+      "start": "2028-05-22",
+      "end": "2028-05-26",
+      "groups": {
+        "SA1": {
+          "meeting_number": 122,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA2": {
+          "meeting_number": 187,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA3": {
+          "meeting_number": 140,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA4": {
+          "meeting_number": 144,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA5": {
+          "meeting_number": 179,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 85,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT1": {
+          "meeting_number": 173,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT3": {
+          "meeting_number": 159,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT4": {
+          "meeting_number": 147,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT6": {
+          "meeting_number": 134,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2028-10_China",
+      "city": "China",
+      "city_norm": "china",
+      "start": "2028-10-09",
+      "end": "2028-10-13",
+      "groups": {
+        "SA2": {
+          "meeting_number": 189,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA3": {
+          "meeting_number": 142,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA5": {
+          "meeting_number": 181,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 87,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT1": {
+          "meeting_number": 175,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT3": {
+          "meeting_number": 161,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT4": {
+          "meeting_number": 149,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2028-10_India",
+      "city": "India",
+      "city_norm": "india",
+      "start": "2028-10-09",
+      "end": "2028-10-13",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 136,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 145,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 143,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 130,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    }
+  ]
+}
