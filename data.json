@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T07:40:54Z",
+  "generated": "2026-08-03T08:41:44Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -414,9 +414,9 @@
         "RAN4": {
           "meeting_number": 122,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR4_122",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_122/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_122/Invitation/"
         },
         "RAN5": {
           "meeting_number": 114,
