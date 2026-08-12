@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T06:03:24Z",
+  "generated": "2026-08-12T06:41:28Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -166,9 +166,9 @@
         "SA5": {
           "meeting_number": 169,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS5_169",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_169/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_169/Invitation/"
         },
         "SA6": {
           "meeting_number": 75,
