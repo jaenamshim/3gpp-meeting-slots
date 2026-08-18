@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T05:48:44Z",
+  "generated": "2026-08-18T05:44:08Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -238,9 +238,9 @@
       }
     },
     {
-      "slot_id": "2026-11_US",
-      "city": "US",
-      "city_norm": "us",
+      "slot_id": "2026-11_Miami",
+      "city": "Miami",
+      "city_norm": "miami",
       "start": "2026-11-03",
       "end": "2026-11-06",
       "groups": {
@@ -384,9 +384,9 @@
       }
     },
     {
-      "slot_id": "2027-01_Japan",
-      "city": "Japan",
-      "city_norm": "japan",
+      "slot_id": "2027-01_Osaka",
+      "city": "Osaka",
+      "city_norm": "osaka",
       "start": "2027-01-25",
       "end": "2027-01-29",
       "groups": {
@@ -400,16 +400,16 @@
         "RAN2": {
           "meeting_number": 137,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR2_137",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_137/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_137/Invitation/"
         },
         "RAN3": {
           "meeting_number": 135,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR3_135",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_135/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_135/Invitation/"
         },
         "RAN4": {
           "meeting_number": 122,
@@ -820,28 +820,28 @@
       "end": "2028-05-26",
       "groups": {
         "RAN1": {
-          "meeting_number": 134,
+          "meeting_number": 133,
           "is_bis": false,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
         },
         "RAN2": {
-          "meeting_number": 143,
+          "meeting_number": 142,
           "is_bis": false,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
         },
         "RAN3": {
-          "meeting_number": 141,
+          "meeting_number": 140,
           "is_bis": false,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
         },
         "RAN4": {
-          "meeting_number": 128,
+          "meeting_number": 127,
           "is_bis": false,
           "meeting_folder": null,
           "meeting_dir": null,
@@ -1001,29 +1001,29 @@
       "end": "2028-10-13",
       "groups": {
         "RAN1": {
-          "meeting_number": 136,
-          "is_bis": false,
+          "meeting_number": 134,
+          "is_bis": true,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
         },
         "RAN2": {
-          "meeting_number": 145,
-          "is_bis": false,
+          "meeting_number": 143,
+          "is_bis": true,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
         },
         "RAN3": {
-          "meeting_number": 143,
-          "is_bis": false,
+          "meeting_number": 141,
+          "is_bis": true,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
         },
         "RAN4": {
-          "meeting_number": 130,
-          "is_bis": false,
+          "meeting_number": 128,
+          "is_bis": true,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
