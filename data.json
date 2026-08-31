@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-30T10:28:39Z",
+  "generated": "2026-08-31T11:34:58Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -305,9 +305,9 @@
         "RAN5": {
           "meeting_number": 114,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR5__114_Kobe",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__114_Kobe/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__114_Kobe/Invitation/"
         }
       }
     },
