@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T09:25:08Z",
+  "generated": "2026-09-07T10:14:58Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -349,9 +349,9 @@
         "SA5": {
           "meeting_number": 171,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS5_171",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_171/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_171/Invitation/"
         },
         "SA6": {
           "meeting_number": 77,
@@ -363,9 +363,9 @@
         "CT1": {
           "meeting_number": 165,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGC1_165_Incheon",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_165_Incheon/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_165_Incheon/Invitation/"
         },
         "CT3": {
           "meeting_number": 151,
@@ -377,16 +377,16 @@
         "CT4": {
           "meeting_number": 139,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "CT4_139_Incheon-2027-02",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_139_Incheon-2027-02/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_139_Incheon-2027-02/Invitation/"
         },
         "CT6": {
           "meeting_number": 129,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "CT6-129_Incheon_2027-02",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-129_Incheon_2027-02/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-129_Incheon_2027-02/Invitation/"
         }
       }
     },
