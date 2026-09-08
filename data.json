@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T10:14:58Z",
+  "generated": "2026-09-08T09:39:17Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -328,16 +328,16 @@
         "SA2": {
           "meeting_number": 179,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS2_179_Incheon_2027-02",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_179_Incheon_2027-02/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_179_Incheon_2027-02/Invitation/"
         },
         "SA3": {
           "meeting_number": 132,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS3_132_Incheon",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_132_Incheon/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_132_Incheon/Invitation/"
         },
         "SA4": {
           "meeting_number": 139,
@@ -356,9 +356,9 @@
         "SA6": {
           "meeting_number": 77,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS6_077_Incheon",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_077_Incheon/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_077_Incheon/Invitation/"
         },
         "CT1": {
           "meeting_number": 165,
