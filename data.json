@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T11:36:23Z",
+  "generated": "2026-10-02T11:05:32Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -17,7 +17,7 @@
     "SA5",
     "SA6"
   ],
-  "slot_count": 18,
+  "slot_count": 21,
   "slots": [
     {
       "slot_id": "2026-10_Prague",
@@ -650,8 +650,96 @@
           "meeting_dir": null,
           "invitation_dir": null
         },
+        "CT3": {
+          "meeting_number": 154,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT4": {
+          "meeting_number": 142,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
         "CT6": {
           "meeting_number": 131,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-10_SaintJulian's",
+      "city": "Saint Julian's",
+      "city_norm": "saint julians",
+      "start": "2027-10-11",
+      "end": "2027-10-15",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 130,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 139,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 137,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 124,
+          "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA2": {
+          "meeting_number": 183,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 81,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-10_SaintPaul'sBay",
+      "city": "Saint Paul's Bay",
+      "city_norm": "saint pauls bay",
+      "start": "2027-10-11",
+      "end": "2027-10-15",
+      "groups": {
+        "SA3": {
+          "meeting_number": 136,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA5": {
+          "meeting_number": 175,
           "is_bis": false,
           "meeting_folder": null,
           "meeting_dir": null,
@@ -920,6 +1008,22 @@
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2036-12_Rovaniemi",
+      "city": "Rovaniemi",
+      "city_norm": "rovaniemi",
+      "start": "2036-12-30",
+      "end": "2036-12-31",
+      "groups": {
+        "RAN3": {
+          "meeting_number": 133,
+          "is_bis": false,
+          "meeting_folder": "TSGR3_133",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133/Invitation/"
         }
       }
     }
