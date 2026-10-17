@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T09:46:33Z",
+  "generated": "2026-10-17T09:19:46Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -17,110 +17,8 @@
     "SA5",
     "SA6"
   ],
-  "slot_count": 23,
+  "slot_count": 21,
   "slots": [
-    {
-      "slot_id": "2026-10_Prague",
-      "city": "Prague",
-      "city_norm": "prague",
-      "start": "2026-10-12",
-      "end": "2026-10-16",
-      "groups": {
-        "SA2": {
-          "meeting_number": 177,
-          "is_bis": false,
-          "meeting_folder": "TSGS2_177_Prague_2026-10",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_177_Prague_2026-10/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_177_Prague_2026-10/Invitation/"
-        },
-        "SA3": {
-          "meeting_number": 130,
-          "is_bis": false,
-          "meeting_folder": "TSGS3_130_Prague",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_130_Prague/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_130_Prague/Invitation/"
-        },
-        "SA4": {
-          "meeting_number": 137,
-          "is_bis": false,
-          "meeting_folder": "TSGS4_137-e",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_137-e/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_137-e/Invitation/"
-        },
-        "SA5": {
-          "meeting_number": 169,
-          "is_bis": false,
-          "meeting_folder": "TSGS5_169",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_169/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG5_TM/TSGS5_169/Invitation/"
-        },
-        "SA6": {
-          "meeting_number": 75,
-          "is_bis": false,
-          "meeting_folder": "TSGS6_075_Prague",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_075_Prague/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG6_MissionCritical/TSGS6_075_Prague/Invitation/"
-        },
-        "CT1": {
-          "meeting_number": 163,
-          "is_bis": false,
-          "meeting_folder": "TSGC1_163_Prague",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_163_Prague/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG1_mm-cc-sm_ex-CN1/TSGC1_163_Prague/Invitation/"
-        },
-        "CT3": {
-          "meeting_number": 149,
-          "is_bis": false,
-          "meeting_folder": "TSGC3_149_Prague",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_149_Prague/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_149_Prague/Invitation/"
-        },
-        "CT4": {
-          "meeting_number": 137,
-          "is_bis": false,
-          "meeting_folder": "CT4_137_Prague-2026-10",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_137_Prague-2026-10/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_137_Prague-2026-10/Invitation/"
-        }
-      }
-    },
-    {
-      "slot_id": "2026-10_SouthKorea",
-      "city": "South Korea",
-      "city_norm": "south korea",
-      "start": "2026-10-12",
-      "end": "2026-10-16",
-      "groups": {
-        "RAN1": {
-          "meeting_number": 126,
-          "is_bis": true,
-          "meeting_folder": "TSGR1_126b",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_126b/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_126b/Invitation/"
-        },
-        "RAN2": {
-          "meeting_number": 135,
-          "is_bis": true,
-          "meeting_folder": "TSGR2_135bis",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_135bis/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_135bis/Invitation/"
-        },
-        "RAN3": {
-          "meeting_number": 133,
-          "is_bis": true,
-          "meeting_folder": "TSGR3_133-bis",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133-bis/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133-bis/Invitation/"
-        },
-        "RAN4": {
-          "meeting_number": 120,
-          "is_bis": true,
-          "meeting_folder": "TSGR4_120bis",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_120bis/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_120bis/Invitation/"
-        }
-      }
-    },
     {
       "slot_id": "2026-11_Miami",
       "city": "Miami",
