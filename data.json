@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T10:01:45Z",
+  "generated": "2026-10-21T10:06:04Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -17,7 +17,7 @@
     "SA5",
     "SA6"
   ],
-  "slot_count": 21,
+  "slot_count": 22,
   "slots": [
     {
       "slot_id": "2026-11_Miami",
@@ -344,6 +344,64 @@
         "RAN4": {
           "meeting_number": 122,
           "is_bis": true,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-04_Sweden",
+      "city": "Sweden",
+      "city_norm": "sweden",
+      "start": "2027-04-19",
+      "end": "2027-04-23",
+      "groups": {
+        "SA2": {
+          "meeting_number": 180,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA3": {
+          "meeting_number": 133,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA5": {
+          "meeting_number": 172,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "SA6": {
+          "meeting_number": 78,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT1": {
+          "meeting_number": 166,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT3": {
+          "meeting_number": 152,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "CT4": {
+          "meeting_number": 140,
+          "is_bis": false,
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
