@@ -185,7 +185,7 @@
    DATA — injected at build time by build.py
    ============================================================ */
 const payload = /*INJECT:SLOTS_DATA*/ {
-  "generated": "2026-10-30T11:22:47Z",
+  "generated": "2026-10-31T10:54:28Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -235,33 +235,12 @@ const payload = /*INJECT:SLOTS_DATA*/ {
           "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_127/",
           "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_127/Invitation/"
         },
-        "RAN2": {
-          "meeting_number": 136,
-          "is_bis": false,
-          "meeting_folder": "TSGR2_136",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_136/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_136/Invitation/"
-        },
-        "RAN3": {
-          "meeting_number": 134,
-          "is_bis": false,
-          "meeting_folder": "TSGR3_134",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_134/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_134/Invitation/"
-        },
         "RAN4": {
           "meeting_number": 121,
           "is_bis": false,
           "meeting_folder": "TSGR4_121",
           "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_121/",
           "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_121/Invitation/"
-        },
-        "RAN5": {
-          "meeting_number": 113,
-          "is_bis": false,
-          "meeting_folder": "TSGR5__113_Calgary",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__113_Calgary/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__113_Calgary/Invitation/"
         },
         "SA1": {
           "meeting_number": 116,
@@ -336,6 +315,45 @@ const payload = /*INJECT:SLOTS_DATA*/ {
       }
     },
     {
+      "slot_id": "2026-11_Calgary,CA",
+      "city": "Calgary, CA",
+      "city_norm": "calgary ca",
+      "start": "2026-11-16",
+      "end": "2026-11-20",
+      "groups": {
+        "RAN5": {
+          "meeting_number": 113,
+          "is_bis": false,
+          "meeting_folder": "TSGR5__113_Calgary",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__113_Calgary/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__113_Calgary/Invitation/"
+        }
+      }
+    },
+    {
+      "slot_id": "2026-11_Calgary,Canada",
+      "city": "Calgary, Canada",
+      "city_norm": "calgary canada",
+      "start": "2026-11-16",
+      "end": "2026-11-20",
+      "groups": {
+        "RAN2": {
+          "meeting_number": 136,
+          "is_bis": false,
+          "meeting_folder": "TSGR2_136",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_136/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_136/Invitation/"
+        },
+        "RAN3": {
+          "meeting_number": 134,
+          "is_bis": false,
+          "meeting_folder": "TSGR3_134",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_134/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_134/Invitation/"
+        }
+      }
+    },
+    {
       "slot_id": "2027-01_Sophia-Antipolis",
       "city": "Sophia-Antipolis",
       "city_norm": "sophia-antipolis",
@@ -352,12 +370,19 @@ const payload = /*INJECT:SLOTS_DATA*/ {
       }
     },
     {
-      "slot_id": "2027-01_Japan",
-      "city": "Japan",
-      "city_norm": "japan",
+      "slot_id": "2027-01_Kobe,JP",
+      "city": "Kobe, JP",
+      "city_norm": "kobe jp",
       "start": "2027-01-25",
       "end": "2027-01-29",
       "groups": {
+        "RAN1": {
+          "meeting_number": 128,
+          "is_bis": false,
+          "meeting_folder": "TSGR1_128",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_128/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_128/Invitation/"
+        },
         "RAN2": {
           "meeting_number": 137,
           "is_bis": false,
@@ -371,22 +396,6 @@ const payload = /*INJECT:SLOTS_DATA*/ {
           "meeting_folder": "TSGR3_135",
           "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_135/",
           "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_135/Invitation/"
-        }
-      }
-    },
-    {
-      "slot_id": "2027-01_Osaka",
-      "city": "Osaka",
-      "city_norm": "osaka",
-      "start": "2027-01-25",
-      "end": "2027-01-29",
-      "groups": {
-        "RAN1": {
-          "meeting_number": 128,
-          "is_bis": false,
-          "meeting_folder": "TSGR1_128",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_128/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_128/Invitation/"
         },
         "RAN4": {
           "meeting_number": 122,
@@ -405,9 +414,9 @@ const payload = /*INJECT:SLOTS_DATA*/ {
       }
     },
     {
-      "slot_id": "2027-02_SouthKorea",
-      "city": "South Korea",
-      "city_norm": "south korea",
+      "slot_id": "2027-02_Incheon,KR",
+      "city": "Incheon, KR",
+      "city_norm": "incheon kr",
       "start": "2027-02-22",
       "end": "2027-02-26",
       "groups": {
@@ -537,9 +546,9 @@ const payload = /*INJECT:SLOTS_DATA*/ {
       }
     },
     {
-      "slot_id": "2027-04_Sweden",
-      "city": "Sweden",
-      "city_norm": "sweden",
+      "slot_id": "2027-04_Stockholm,SE",
+      "city": "Stockholm, SE",
+      "city_norm": "stockholm se",
       "start": "2027-04-19",
       "end": "2027-04-23",
       "groups": {
@@ -709,53 +718,9 @@ const payload = /*INJECT:SLOTS_DATA*/ {
       }
     },
     {
-      "slot_id": "2027-08_Prague",
-      "city": "Prague",
-      "city_norm": "prague",
-      "start": "2027-08-30",
-      "end": "2027-09-03",
-      "groups": {
-        "RAN1": {
-          "meeting_number": 130,
-          "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
-        },
-        "RAN2": {
-          "meeting_number": 139,
-          "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
-        },
-        "RAN3": {
-          "meeting_number": 137,
-          "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
-        },
-        "RAN4": {
-          "meeting_number": 124,
-          "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
-        },
-        "RAN5": {
-          "meeting_number": 116,
-          "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
-        }
-      }
-    },
-    {
-      "slot_id": "2027-08_Sweden",
-      "city": "Sweden",
-      "city_norm": "sweden",
+      "slot_id": "2027-08_Goteborg,SE",
+      "city": "Goteborg, SE",
+      "city_norm": "goteborg se",
       "start": "2027-08-30",
       "end": "2027-09-03",
       "groups": {
@@ -824,6 +789,50 @@ const payload = /*INJECT:SLOTS_DATA*/ {
         },
         "CT6": {
           "meeting_number": 131,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        }
+      }
+    },
+    {
+      "slot_id": "2027-08_Prague",
+      "city": "Prague",
+      "city_norm": "prague",
+      "start": "2027-08-30",
+      "end": "2027-09-03",
+      "groups": {
+        "RAN1": {
+          "meeting_number": 130,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN2": {
+          "meeting_number": 139,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN3": {
+          "meeting_number": 137,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN4": {
+          "meeting_number": 124,
+          "is_bis": false,
+          "meeting_folder": null,
+          "meeting_dir": null,
+          "invitation_dir": null
+        },
+        "RAN5": {
+          "meeting_number": 116,
           "is_bis": false,
           "meeting_folder": null,
           "meeting_dir": null,
@@ -1280,22 +1289,6 @@ const payload = /*INJECT:SLOTS_DATA*/ {
           "meeting_folder": null,
           "meeting_dir": null,
           "invitation_dir": null
-        }
-      }
-    },
-    {
-      "slot_id": "2036-12_Rovaniemi",
-      "city": "Rovaniemi",
-      "city_norm": "rovaniemi",
-      "start": "2036-12-30",
-      "end": "2036-12-31",
-      "groups": {
-        "RAN3": {
-          "meeting_number": 133,
-          "is_bis": false,
-          "meeting_folder": "TSGR3_133",
-          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133/",
-          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_133/Invitation/"
         }
       }
     }
