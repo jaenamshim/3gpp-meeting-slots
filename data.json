@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T13:44:29Z",
+  "generated": "2026-11-13T13:04:02Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -221,9 +221,9 @@
         "SA1": {
           "meeting_number": 117,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS1_117_Incheon",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_117_Incheon/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_117_Incheon/Invitation/"
         },
         "SA2": {
           "meeting_number": 179,
@@ -330,16 +330,16 @@
         "RAN3": {
           "meeting_number": 135,
           "is_bis": true,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR3_135-bis",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_135-bis/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_135-bis/Invitation/"
         },
         "RAN4": {
           "meeting_number": 122,
           "is_bis": true,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR4_122bis",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_122bis/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_122bis/Invitation/"
         }
       }
     },
@@ -353,16 +353,16 @@
         "SA2": {
           "meeting_number": 180,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS2_180_Stockholm_2027-04",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_180_Stockholm_2027-04/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG2_Arch/TSGS2_180_Stockholm_2027-04/Invitation/"
         },
         "SA3": {
           "meeting_number": 133,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS3_133_Stockholm",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_133_Stockholm/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG3_Security/TSGS3_133_Stockholm/Invitation/"
         },
         "SA5": {
           "meeting_number": 172,
@@ -395,9 +395,9 @@
         "CT4": {
           "meeting_number": 140,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "CT4_140_Stockholm-2027-04",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_140_Stockholm-2027-04/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_140_Stockholm-2027-04/Invitation/"
         }
       }
     },
@@ -432,9 +432,9 @@
         "RAN4": {
           "meeting_number": 123,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR4_123",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_123/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_123/Invitation/"
         },
         "RAN5": {
           "meeting_number": 115,
@@ -446,9 +446,9 @@
         "SA1": {
           "meeting_number": 118,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS1_118_Dalian",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_118_Dalian/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_118_Dalian/Invitation/"
         },
         "SA2": {
           "meeting_number": 181,
@@ -525,9 +525,9 @@
         "SA1": {
           "meeting_number": 119,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS1_119_Goteborg",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_119_Goteborg/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_119_Goteborg/Invitation/"
         },
         "SA2": {
           "meeting_number": 182,
@@ -625,9 +625,9 @@
         "RAN4": {
           "meeting_number": 124,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR4_124",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_124/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_124/Invitation/"
         },
         "RAN5": {
           "meeting_number": 116,
@@ -669,9 +669,9 @@
         "RAN4": {
           "meeting_number": 124,
           "is_bis": true,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR4_124bis",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_124bis/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_124bis/Invitation/"
         },
         "SA2": {
           "meeting_number": 183,
@@ -759,37 +759,37 @@
         "RAN2": {
           "meeting_number": 140,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR2_140",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_140/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG2_RL2/TSGR2_140/Invitation/"
         },
         "RAN3": {
           "meeting_number": 138,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR3_138",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_138/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_138/Invitation/"
         },
         "RAN4": {
           "meeting_number": 125,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR4_125",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_125/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG4_Radio/TSGR4_125/Invitation/"
         },
         "RAN5": {
           "meeting_number": 117,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGR5__117_Dallas",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__117_Dallas/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ran/WG5_Test_ex-T1/TSGR5__117_Dallas/Invitation/"
         },
         "SA1": {
           "meeting_number": 120,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "TSGS1_120_Dallas",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_120_Dallas/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_sa/WG1_Serv/TSGS1_120_Dallas/Invitation/"
         },
         "SA2": {
           "meeting_number": 184,
