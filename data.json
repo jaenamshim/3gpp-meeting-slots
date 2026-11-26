@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T15:33:47Z",
+  "generated": "2026-11-26T15:09:51Z",
   "watch_scope": [
     "CT1",
     "CT3",
@@ -711,16 +711,16 @@
         "CT4": {
           "meeting_number": 144,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "CT4_144_Dallas-2027-11",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_144_Dallas-2027-11/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_144_Dallas-2027-11/Invitation/"
         },
         "CT6": {
           "meeting_number": 132,
           "is_bis": false,
-          "meeting_folder": null,
-          "meeting_dir": null,
-          "invitation_dir": null
+          "meeting_folder": "CT6-132_Dallas_2027-11",
+          "meeting_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-132_Dallas_2027-11/",
+          "invitation_dir": "https://www.3gpp.org/ftp/tsg_ct/WG6_Smartcard_Ex-T3/CT6-132_Dallas_2027-11/Invitation/"
         }
       }
     },
